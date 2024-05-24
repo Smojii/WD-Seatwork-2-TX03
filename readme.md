@@ -114,3 +114,4 @@ WD-ProjectName
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 | Design Your Personal Responsive Portfolio Website with HTML and CSS Step by Step Guide | The Design of my Home Page | https://www.youtube.com/watch?v=KFJbIyqgGt0&t=606s |
 | Create Simple Personal Portfolio Website with HTML & CSS Step by Step Tutorial | Reference to my contact layout | https://www.youtube.com/watch?v=Dtb3DdSvYRY |
+| How to Link One Page to Another Page in HTML HTML Tutorial for Beginners |  Learned to link pages | Create Simple Personal Portfolio Website with HTML & CSS Step by Step Tutorial | Reference to my contact layout | https://www.youtube.com/watch?v=Dtb3DdSvYRY |
