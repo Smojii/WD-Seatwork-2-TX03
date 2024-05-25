@@ -30,7 +30,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: var(--extra-light);
+  background-color: #ffffff;
   z-index: 99;
 }
 
