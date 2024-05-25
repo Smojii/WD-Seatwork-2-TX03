@@ -61,9 +61,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+    The project is to create a Résumé and a Protfolio using HTML and CSS.
 - Whats the purpose
+    The purpose of the project is to create a website that show our Résumé.
 - What are key components
+    A domain name, website content, and design and layout.
 - What technology used and how it is used
+    The technology used in making my website are HTML and CSS.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
